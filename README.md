@@ -1,4 +1,6 @@
-# AngularTourOfHeroes
+# Angular Tour of Heroes
+
+An implementation of the Tour of Heroes app from the [Angular tutorial](https://angular.io/tutorial).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
